@@ -1,0 +1,406 @@
+{
+    "Promos": [
+        {
+            "id": 1,
+            "name": "Lucky Gol",
+            "caption": "Semangatmu di FIFA World Cup Qatar 2022 dengan ikut berpatisipasi pada acara Lucky Gol di restoran Mc Qofy's",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/December2022/pc5o1KUVCUYgKtc6AbHW.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 2,
+            "name": "Happy Meal Potato Head Mash Up",
+            "caption": "Baru! Pilihan Buku Petualangan Para Detektif Mungil (Pengarang Buku How to Train Your Dragon) atau pilihan mainan Potato Head Mash Up yang bisa kamu pilih untuk Happy Meal-mu! Koleksi semuanya sekarang.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/December2022/hodkwzKO5U3vAcZOvOXg.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 3,
+            "name": "Gratis Kalender 2023",
+            "caption": "Dapatkan Gratis Kalender 2023 Mc Qofy's setiap pembelian minimum Rp 165.000,-",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/December2022/MPCYKpbK0EC2NBoh4CEz.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 4,
+            "name": "Pesta Hemat HUT BRI Diskon 50%",
+            "caption": "Spesial HUT BRI 127 tahun, hanya dengan bertransaksi minimal Rp 127 ribu akan mendapatkan diskon 50% dengan menggunakan Kartu Debit BRI berlogo Mastercard.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/December2022/dkOw34pipHls4LmNfEgp.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 5,
+            "name": "Main Game Score & Win dan Dapatkan Penawaran Spesial",
+            "caption": "Meriahkan momen Piala Dunia 2022 dengan main game Score & Win di Aplikasi Mc Qofy’s. Berikan tendangan terbaikmu untuk menjebol gawang lawan, dan nikmati penawaran spesial dari Aplikasi Mc Qofy’s setiap hari mulai tanggal 18 November 2022.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/November2022/GJ9TMYqzGuXTfWWBFyrE.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 6,
+            "name": "Family Weekend Edisi Pahlawan",
+            "caption": "Satu set terdiri dari pouch/tas serba guna yang berisi kartu cara bermain, kartu pahlawan, kartu fakta, dan kunci jawaban.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/November2022/qfhsNuXXqTBJfMcBNR6O.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 7,
+            "name": "Foto Kompetisi #HappyMealDreamWorks #RayakanKeunikanmu",
+            "caption": "Unggah foto gaya unik si Kecil dengan salah satu mainan Happy Meal DreamWorks, ceritakan tentang keunikan si Kecil dan apa yang membuatnya berbeda di caption postingan. Tag @Mc QofysID & gunakan hashtag #HappyMealDreamWorks #RayakanUnikmu",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/November2022/YIrfS12WxExrXA4pq3Qz.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 8,
+            "name": "Kompetisi Photo Wefie #ultahserumcd",
+            "caption": "Share photo wefie perayaan ulang tahun bersama Mc Qofy ke social media, sertakan #ultahserumcd dan jangan lupa tag 3 temanmu. Dapatkan Mc Qofy Gift Card @Rp200.000 untuk 10 pemenang. yang akan diundi tiap bulan. Kompetisi mulai 1 November - 31 Desember 2022. Info lengkapnya cek di www.mcdonalds.co.id atau kunjungi Mc Qofy terdekat.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/November2022/0NK5NWRYG24il7xcxOKH.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 9,
+            "name": "Choco Marshmallow Pie",
+            "caption": "Nikmati lembutnya Marshmallow serta coklat dalam pie yang hangat dan renyah. Baru! Choco Marshmallow Pie, hanya di Mc Qofy's.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/October2022/23YzlJOlhAdyHU8erFWF.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "31-12-2022"
+        },
+        {
+            "id": 10,
+            "name": "Drive Thru Stiker",
+            "caption": "Mulai 1 Nov - 31 Desember setiap melakukan transaksi melalui Drive Thru Gratis Fruit tea 250ml",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/October2022/KUsNOjlBig0O8xtsWLLY.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "31-12-2022"
+        },
+        {
+            "id": 11,
+            "name": "Favorit K-Fans",
+            "caption": "Ayam Mc Qofy yang krispy dan juicy dengan bumbu Kimchi yang pedas dan asam menyegarkan.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/October2022/DMSUQIJMfxeSH3uXM4Nd.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "24-12-2022"
+        },
+        {
+            "id": 12,
+            "name": "Dark Choco McFlurry & Vanilla Black Waffle Cone",
+            "caption": "Hadir kembali menu es krim Mc Qofy favoritmu. Nikmatnya Dark Choco McFlurry, es krim vanilla Mc Qofy's dengan cita rasa coklat pekat berpadu pilihan topping sereal coklat atau OREO.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/October2022/8rbw42OFgGGMBkNmFGdW.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "15-01-2023"
+        },
+        {
+            "id": 13,
+            "name": "Buku Happy Readers",
+            "caption": "Dapatkan Buku Petualangan Para Detektif Mungil dari Cressida Cowell (Pengarang Buku How to Train Your Dragon) untuk setiap pembelian paket Happy Meal.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/August2022/z3gzKl0EpFAlKP2EaH0D.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "31-12-2022"
+        },
+        {
+            "id": 14,
+            "name": "I Love Monday",
+            "caption": "Selama bulan Agustus-Desember 2022 setiap hari Senin kamu bisa mendapatkan diskon Rp 25.000,- ",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/August2022/BRXKUdthibRnU6I8PUtv.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "31-12-2022"
+        },
+        {
+            "id": 15,
+            "name": "McFlurry with KitKat Mini Bites",
+            "caption": "Nikmati sensasi KitKat Mini Bites dalam McFlurry yang tersedia dalam dua pilihan rasa, Chocolate & Strawberry",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/August2022/7mzyFr1D4hZDkoeswdA0.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "15-01-2023"
+        },
+        {
+            "id": 16,
+            "name": "Cari Tahu Kisah Pahlawan di Sekitarmu!",
+            "caption": "Cari tahu kisah pahlawan nasional Indonesia dengan cara yang seru. Kunjungi link https://mcd-pahlawan-sekitarkita.com/ pada browser HP mu, foto nama pahlawan yang ada disekitarmu dan temukan kisah kepahlawananya.",
+            "image": "https://nos.jkt-1.neo.id/mcdonalds/promos/January2022/tkCuYqWL5Yw7xYNS01Xv.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "expired": "15-01-2023"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name": "Breakfast"
+        },
+        {
+            "id": 2,
+            "name": "Beef"
+        },
+        {
+            "id": 3,
+            "name": "Chicken"
+        },
+        {
+            "id": 4,
+            "name": "Fish"
+        },
+        {
+            "id": 5,
+            "name": "Beverage"
+        },
+        {
+            "id": 6,
+            "name": "Dessert"
+        },
+        {
+            "id": 7,
+            "name": "Cafe"
+        },
+        {
+            "id": 8,
+            "name": "Snack"
+        }
+    ],
+    "Items": [
+        {
+            "id": 1,
+            "name": "Egg and Cheese Muffin",
+            "description": "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat. Tersedia dari jam 5-11 pagi.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/9FcgMqqWSFYjE6edaOAL.png",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 2,
+            "name": "Chicken Muffin",
+            "description": "Setangkup English muffin hangat dilapis saus mayonais dengan daging ayam olahan yang digoreng dengan sempurna. Tersedia dari jam 5-11 pagi.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/AZa7XBfA0ADkUbSdnQOW.png",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 3,
+            "name": "Sausage McMuffin",
+            "description": "English muffin disajikan dengan sosis ayam yang gurih dan selembar keju bernutrisi. Tersedia dari jam 5-11 pagi.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/Vm7RRv0nsWQmS1fz3iv6.png",
+            "authorId": 1,
+            "categoryId": 1
+        },
+        {
+            "id": 4,
+            "name": "Big Maq",
+            "description": "Burger Ikonik Mc Qofy's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/nhj93oZApoMavF1lC6Wm.png",
+            "authorId": 1,
+            "categoryId": 2
+        },
+        {
+            "id": 5,
+            "name": "Triple Cheeseburger",
+            "description": "Perpaduan roti burger dengan 3 lapisan daging gurih berasal dari 100% daging sapi Australia dan 3 lapis keju, saus tomat, acar, potongan bawang dan mustard.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/November2022/VQRNLr01mlK5MrKjX3H9.png",
+            "authorId": 1,
+            "categoryId": 2
+        },
+        {
+            "id": 6,
+            "name": "Double Cheeseburger",
+            "description": "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/October2019/apZ1DxDmKvwS2lV12Elp.png",
+            "authorId": 1,
+            "categoryId": 2
+        },
+        {
+            "id": 7,
+            "name": "PaNas Spesial",
+            "description": "Ayam Goreng khas Mc Qofy's dengan nasi hangat dan tambahan scrambled egg serta minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/H0YCaF0JIpZX2Jwzzx5O.png",
+            "authorId": 1,
+            "categoryId": 3
+        },
+        {
+            "id": 8,
+            "name": "Rica-rica Chicken Rice Mc Qofy",
+            "description": "Saus rica-rica pedas di atas nasi hangat dan daging ayam pilihan.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/MEuiwOf0P9leTe7ZIgbS.png",
+            "authorId": 1,
+            "categoryId": 3
+        },
+        {
+            "id": 9,
+            "name": "Honey Garlic Chicken Rice Mc Qofy",
+            "description": "Nasi hangat dengan topping daging ayam disajikan dengan saus honey garlic.",
+            "price": 10000,
+            "imgUrl": "https://nos.jkt-1.neo.id/mcdonalds/foods/August2020/70rczaWB3BmkIb2DiXby.png",
+            "authorId": 1,
+            "categoryId": 3
+        }
+    ],
+    "Ingredients": [
+        {
+            "id": 1,
+            "itemId": 1,
+            "name": "Egg"
+        },
+        {
+            "id": 2,
+            "itemId": 1,
+            "name": "Cheese"
+        },
+        {
+            "id": 3,
+            "itemId": 1,
+            "name": "Bun"
+        },
+        {
+            "id": 4,
+            "itemId": 2,
+            "name": "Chicken-Crispy"
+        },
+        {
+            "id": 5,
+            "itemId": 2,
+            "name": "Mayonnaise"
+        },
+        {
+            "id": 6,
+            "itemId": 2,
+            "name": "Bun"
+        },
+        {
+            "id": 7,
+            "itemId": 3,
+            "name": "Chicken-Sausage"
+        },
+        {
+            "id": 8,
+            "itemId": 3,
+            "name": "Cheese"
+        },
+        {
+            "id": 9,
+            "itemId": 3,
+            "name": "Bun"
+        },
+        {
+            "id": 10,
+            "itemId": 4,
+            "name": "Beef"
+        },
+        {
+            "id": 11,
+            "itemId": 4,
+            "name": "Cheese"
+        },
+        {
+            "id": 12,
+            "itemId": 4,
+            "name": "Bun"
+        },
+        {
+            "id": 13,
+            "itemId": 4,
+            "name": "Vegetables"
+        },
+        {
+            "id": 14,
+            "itemId": 5,
+            "name": "Beef"
+        },
+        {
+            "id": 15,
+            "itemId": 5,
+            "name": "Cheese"
+        },
+        {
+            "id": 16,
+            "itemId": 5,
+            "name": "Bun"
+        },
+        {
+            "id": 17,
+            "itemId": 5,
+            "name": "Vegetables"
+        },
+        {
+            "id": 18,
+            "itemId": 6,
+            "name": "Beef"
+        },
+        {
+            "id": 19,
+            "itemId": 6,
+            "name": "Cheese"
+        },
+        {
+            "id": 20,
+            "itemId": 6,
+            "name": "Bun"
+        },
+        {
+            "id": 21,
+            "itemId": 6,
+            "name": "Vegetables"
+        },
+        {
+            "id": 22,
+            "itemId": 7,
+            "name": "Chicken-Thigh"
+        },
+        {
+            "id": 23,
+            "itemId": 7,
+            "name": "Egg"
+        },
+        {
+            "id": 24,
+            "itemId": 7,
+            "name": "Rice"
+        },
+        {
+            "id": 25,
+            "itemId": 7,
+            "name": "Tea"
+        },
+        {
+            "id": 26,
+            "itemId": 8,
+            "name": "Chicken-Slice"
+        },
+        {
+            "id": 27,
+            "itemId": 8,
+            "name": "Rica-Rica Sauce"
+        },
+        {
+            "id": 28,
+            "itemId": 8,
+            "name": "Rice"
+        },
+        {
+            "id": 29,
+            "itemId": 9,
+            "name": "Chicken-Slice"
+        },
+        {
+            "id": 30,
+            "itemId": 9,
+            "name": "Honey-Garlic Sauce"
+        },
+        {
+            "id": 31,
+            "itemId": 9,
+            "name": "Rice"
+        }
+    ]
+}

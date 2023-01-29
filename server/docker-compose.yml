@@ -1,0 +1,20 @@
+version: "1.0"
+services:
+  app-service: 
+    build: ./services/app
+    ports:
+      - "5002:4002"
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      DATABASE_URL: postgresql://postgres:B4deHIQmI183lSCz@db.bvlhweqphurmkyfbtpuo.supabase.co:5432/postgres
+  user-service:
+    build: ./services/users
+    ports:
+      - "5001:4001"
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      MONGO_PASS: admin
+  orchestrator:
+    build: ./orchestrator
+    ports:
+      - "80:4000"
